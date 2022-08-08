@@ -5,9 +5,9 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/underarmour2.png");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: url(/gsanchez_fork/assets/img/fondo.jfif);
+  background-repeat: repeat-x;;
+  background-size: contain;
   background-position: left;
 }
 
